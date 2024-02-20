@@ -3,7 +3,8 @@
   "workspaces": {
     "packages": [
       "services/*",
-      "frontend"
+      "frontend",
+      "e2e-tests"
     ],
     "nohoist": [
       "**/@prisma/client"
